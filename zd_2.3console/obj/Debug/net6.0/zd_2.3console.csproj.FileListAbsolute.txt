@@ -1,0 +1,15 @@
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\bin\Debug\net6.0\zd_2.3console.exe
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\bin\Debug\net6.0\zd_2.3console.deps.json
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\bin\Debug\net6.0\zd_2.3console.runtimeconfig.json
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\bin\Debug\net6.0\zd_2.3console.dll
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\bin\Debug\net6.0\zd_2.3console.pdb
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.csproj.AssemblyReference.cache
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.AssemblyInfoInputs.cache
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.AssemblyInfo.cs
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.csproj.CoreCompileInputs.cache
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.dll
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\refint\zd_2.3console.dll
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.pdb
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\zd_2.3console.genruntimeconfig.cache
+C:\Users\2bugs\Desktop\zd_2_Baranov_Praktika\2.3\zd_2.3console\obj\Debug\net6.0\ref\zd_2.3console.dll
